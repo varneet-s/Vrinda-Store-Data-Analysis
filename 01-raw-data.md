@@ -24,8 +24,4 @@ The dataset contains Vrinda Store sales data for the year 2022.
 
 2. **Quantity Column Format Issue**  
    - Some values were written as words (`one`, `two`) instead of numbers (`1`, `2`)  
-
-## Initial Observations
-- Multiple sales channels present
-- Demographic data available (age, gender)
-- Geographic segmentation possible
+---
