@@ -9,15 +9,23 @@ The analysis shows that revenue is concentrated within a specific customer segme
 
 ---
 
+## 📊 Dashboard Overview  
+
+<img width="1473" height="635" alt="dashboard" src="https://github.com/user-attachments/assets/0d9d8f80-ed81-4741-ae93-2e03e3153c74" />
+
+
+---
+
 ## 📂 Project Structure  
 
 ```
 Vrinda-Store-Analysis/
 │
 ├── README.md
-├── Vrinda Store Data Analysis.xlsx
-├── Vrinda Store Data Analysis Report 2022.xlsx
-└── Vrinda Data Analysis_Text.pdf
+├── 01-raw-data.md
+├── 02-analysis.md
+├── 03-insights.md
+└── 04-business-recommendations.md
 ```
 ---
 
@@ -127,17 +135,23 @@ This creates both:
 ## 7. Next Steps  
 
 ### Short-Term  
-- Launch targeted campaigns for the identified segment  
-- Optimize product listings on top platforms  
+
+- Design targeted ad campaigns for the identified customer segment  
+- Optimise product listings (titles, images, pricing) on key platforms  
+
+---
 
 ### Medium-Term  
-- Expand into underperforming states  
-- Explore male customer segment  
 
-### Advanced Analysis  
-- Customer Lifetime Value (CLV)  
-- Cohort analysis  
-- Repeat purchase behavior  
-- Channel ROI analysis  
+- Test campaigns in underperforming states to evaluate expansion potential  
+- Experiment with marketing strategies for male customers  
+
+---
+
+### Further Analysis (Future Scope)  
+
+- Analyse customer behaviour patterns in more detail  
+- Identify repeat purchase trends  
+- Compare performance across different sales channels  
 
 ---
