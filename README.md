@@ -68,27 +68,27 @@ Vrinda Store wants to create an annual sales report for 2022 to understand custo
 
 ---
 
-## Skills  
+## Skills
 
-**Business Analysis**  
-- Problem structuring  
-- KPI identification  
-- Insight-driven recommendations  
+### Business Analysis
+- Problem Structuring  
+- KPI Definition & Tracking  
+- Insight Generation & Recommendation  
 
-**Data & Tools**  
-- Microsoft Excel  
-- Pivot Tables  
-- Data Cleaning  
-- Dashboard Creation  
+### Data Analysis
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Trend Analysis  
+- Customer Segmentation  
+- Performance Analysis (Channel / Product-level)  
 
-**Analytical Thinking**  
-- Customer segmentation  
-- Trend analysis  
-- Channel performance evaluation  
+### Data Visualization & Reporting
+- Dashboard Development (Microsoft Excel)  
+- Report Structuring & Insight Communication  
 
-**Communication**  
-- Insight presentation  
-- Structured reporting  
+### Tools & Technologies
+- Microsoft Excel
+  - Pivot Tables
 
 ---
 
