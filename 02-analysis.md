@@ -35,12 +35,12 @@ Prepare the dataset to enable meaningful segmentation and trend analysis.
 
 #### Age Group Creation  
 - Created an **Age Group** column using the following logic:
-  - `< 30` → Teen  
+  - `< 30` → Young Adult  
   - `30–49` → Adult  
   - `50+` → Senior  
 
 #### Month Extraction  
-- Extracted **Month** from the Date column to analyze monthly trends  
+- Extracted **Month** from the Date column to analyse monthly trends  
 
 #### Contribution Calculation (for Insights)  
 - Calculated percentage contribution using total values   
@@ -57,19 +57,19 @@ Prepare the dataset to enable meaningful segmentation and trend analysis.
 After cleaning and structuring the data, analysis was required to identify key business drivers.
 
 ### Task  
-Analyze sales data to identify patterns across customers, regions, and channels.
+Analyse sales data to identify patterns across customers, regions, and channels.
 
 ### Action  
 
 #### Sales vs Orders Trend  
 <img width="591" height="276" alt="sales-trend" src="https://github.com/user-attachments/assets/790f7b8b-d34e-4f6e-a24c-57c1a1084fcd" />
 
-- Compared total sales and number of orders across months  
+- Compared total sales and the number of orders across months  
 
 #### Customer Segmentation
 <img width="372" height="270" alt="customer-segmentation" src="https://github.com/user-attachments/assets/30c80cc6-1b89-4147-8158-a7f50c6901db" />
 
-- Analyzed order distribution by **Gender**  
+- Analysed order distribution by **Gender**  
 - Evaluated contribution by **Age Group**  
 
 #### Geographic Analysis
