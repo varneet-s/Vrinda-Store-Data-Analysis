@@ -11,8 +11,7 @@ The analysis shows that revenue is concentrated within a specific customer segme
 
 ## 📊 Dashboard Overview  
 
-<img width="1473" height="635" alt="dashboard" src="https://github.com/user-attachments/assets/0d9d8f80-ed81-4741-ae93-2e03e3153c74" />
-
+<img width="100%" alt="dashboard" src="images/dashboard.png" />
 
 ---
 
@@ -25,8 +24,20 @@ Vrinda-Store-Analysis/
 ├── 01-raw-data.md
 ├── 02-analysis.md
 ├── 03-insights.md
-└── 04-business-recommendations.md
+├── 04-business-recommendations.md
+│
+├── data/
+│   └── Vrinda Store Data Analysis.xlsx
+│
+├── dashboards/
+│   └── Vrinda_Store_Data_Analysis_Report_2022.xlsx
+│
+└── images/
+    ├── dashboard.png
+    ├── gender-analysis.png
+    └── state-analysis.png
 ```
+
 ---
 
 ## Business Problem  
@@ -38,7 +49,7 @@ Vrinda Store wants to create an annual sales report for 2022 to understand custo
 - Identify the month with the highest sales and orders  
 - Analyse purchasing behaviour (men vs women)  
 - Evaluate order status distribution  
-- Identify the top 5 contributing states  
+- Identify the top 10 contributing states  
 - Analyse the relationship between age and gender  
 - Identify top-performing sales channels  
 - Determine the highest-selling product category  
@@ -96,30 +107,30 @@ Vrinda Store wants to create an annual sales report for 2022 to understand custo
 
 ### Key Insights  
 
-- Women contribute ~65% of total purchases  
-- Maharashtra, Karnataka, and Uttar Pradesh contribute ~35% of sales  
-- Age group 30–49 contributes ~50% of orders  
-- Amazon, Flipkart, and Myntra contribute ~80% of sales  
+- **Demographics:** Women contribute **69.4%** of total orders (**64.0%** of total sales amount).
+- **Geography:** Maharashtra, Karnataka, and Uttar Pradesh contribute **36.7%** of total sales.
+- **Age Group:** The Adult age group (Ages 30–49) is the maximum contributor, accounting for **50.1%** of orders.
+- **Channels:** Amazon, Flipkart, and Myntra are the maximum contributing channels, accounting for **80.4%** of sales.
 
 ---
 
 ### Business Recommendation  
 
 **Target Segment:**  
-- Women aged 30–49  
+- Focus marketing efforts primarily on **Women** aged **30–49** (Adults).
 
 **Geographic Focus:**  
-- Maharashtra  
-- Karnataka  
-- Uttar Pradesh  
+- Target top states, specifically expanding campaigns in:
+  1. Maharashtra (14.12% Sales)
+  2. Karnataka (12.50% Sales)
+  3. Uttar Pradesh (9.94% Sales)
 
 **Channel Strategy:**  
-- Focus on Amazon, Flipkart, and Myntra  
+- Prioritize high-performing platforms: **Amazon**, **Flipkart**, and **Myntra**.
 
 **Marketing Actions:**  
-- Personalised ads  
-- Platform-specific offers  
-- Discount/coupon campaigns  
+- Deploy personalized ads targeted at adult women.
+- Launch platform-specific discount offers and coupons on Amazon, Flipkart, and Myntra.
 
 ---
 
@@ -153,5 +164,3 @@ This creates both:
 - Analyse customer behaviour patterns in more detail  
 - Identify repeat purchase trends  
 - Compare performance across different sales channels  
-
----
